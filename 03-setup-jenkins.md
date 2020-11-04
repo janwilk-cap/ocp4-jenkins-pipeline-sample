@@ -53,7 +53,7 @@ Check the **maven** pod template with preinstalled Java and Maven, which is used
   - Near the bottom of the pod template definition (just above **Delete Template**).
     - Service Account: **`jenkins`**
 
-You can also ser here the memory and cpu limits
+You can also set here the memory and cpu limits
 
 - Click Advanced… to open the advanced container template settings.
   - Request CPU: **`1`**
